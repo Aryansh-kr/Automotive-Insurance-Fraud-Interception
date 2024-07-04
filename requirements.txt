@@ -3,7 +3,7 @@ pandas
 matplotlib
 seaborn
 flask
-sklearn
+scikit-learn
 xgboost
 optuna
 
